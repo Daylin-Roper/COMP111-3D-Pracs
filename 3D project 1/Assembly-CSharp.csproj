@@ -129,6 +129,12 @@
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>C:/Users/45944601/Documents/GitHub/COMP111-3D-Pracs/3D project 1/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>C:/Users/45944601/Documents/GitHub/COMP111-3D-Pracs/3D project 1/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/45944601/Documents/GitHub/COMP111-3D-Pracs/3D project 1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
